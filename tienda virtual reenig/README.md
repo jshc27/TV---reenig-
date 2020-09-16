@@ -1,2 +1,2 @@
-# Carrito-Compras-JavaScript
- Carrito de compras con JavaScript y LocalStorage
+# Tienda Virtual-JavaScript 
+ 
